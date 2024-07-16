@@ -1,5 +1,5 @@
 This repository is for all my projects and notes for Quantum Computing.
-- Transverse Field Ising Model.ipynb
+- Transverse-Field Ising Model.ipynb
   - Ongoing project for the One-dimensional Ising model subroutine and implementing Flow equation techniques to solve for the energy spectra (which I will use Qiskit)
 - QC Summer School Resources
   - Python Notebooks containing lectures from the MSU Summer School
